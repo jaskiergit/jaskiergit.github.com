@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hola! este es el primer post de un blog de pruebas creado con Jekyll + Github
+title: Primer post!
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
